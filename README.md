@@ -11,7 +11,7 @@ Tenho como objetivo continuar evoluindo na área de tecnologia e, futuramente, c
 - Python
 - HTML
 - CSS
-- SQL
+- MYSQL
 - JAVASCRIPT
 
 ## Objetivos
